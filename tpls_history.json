@@ -1,0 +1,15 @@
+{
+    "version":"v1.0",
+    "har": {
+        "javbus": {
+            "name": "javbus",
+            "author": "LSP get from qq group 2",
+            "update": false,
+            "comments": "File from qd qq group 2",
+            "filename": "javbus.har",
+            "date": "20240304",
+            "version":"20240304",
+            "commenturl":""
+        }
+    }
+}
